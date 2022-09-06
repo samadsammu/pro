@@ -30,7 +30,7 @@ a{
     font-weight: bolder;
 
     text-decoration: none;
-    font-size: 25px;
+    font-size: 20px;
     color: white;
     line-height: 27px;
     font-family: serif;
@@ -54,7 +54,7 @@ a{
 }
 .hero p{
     padding-top: 36px;
-    font-size: 25px;
+    font-size: 22px;
     line-height: 28px;
     font-weight: 400px;
 }
@@ -115,6 +115,9 @@ button:hover{
 .pic-2{
     background-image:url(./images/sec4.webp);
 }
+.pic-3{
+    background-image: url(./images/sec2.webp);
+}
 
 
 
@@ -126,6 +129,9 @@ button:hover{
 }
 .content2{
     background-color: #EE7D80;
+}
+.content3{
+    background-color: #CFA8CA;
 }
 .last{
     background-color: #B51144;
@@ -154,7 +160,7 @@ ul{
     padding-top: 55px;
 }
 li{
-    font-size: 20px;
+    font-size: 18px;
 }
 .footer{
     color: white;
